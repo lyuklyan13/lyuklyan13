@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dima</h1>
 <h3 align="center">Python developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyuklyan13&label=Profile%20views&color=0e75b6&style=flat" alt="lyuklyan13" /> </p>
-
 - 💬 Ask me about **Python, Math**
 
-- 📫 How to reach me **dimaluklan1@gmail.com,**
+- 📫 How to reach me **dimaluklan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
